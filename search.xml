@@ -208,9 +208,9 @@
 <p>直播时间：2026-03-12 20:00</p>
 <p>直播平台：腾讯会议</p>
 </blockquote>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>这个老哥，他首先条件就比一般人好。因为他很早就去美国生活了，以及创业过很多次（酒吧等），所以对我个人而言参考性并不大。更多的是学习电商的经验。所以这篇文章重点是总结电商的心得体会。</p>
 <span id="more"></span>
 
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>这个老哥，他首先条件就比一般人好。因为他很早就去美国生活了，以及创业过很多次（酒吧等），所以对我个人而言参考性并不大。更多的是学习电商的经验。所以这篇文章重点是总结电商的心得体会。</p>
 <img src="https://blogphoto.planetgis.cn/PicGo/2026-03-12-image-20260312200810071.png" alt="image-20260312200810071"  />
 
 <p>电商如果不知道如何起步，一开始都是从跟卖开始的。即模仿已经经过市场验证、并且市场较大的品类来进行售卖。另外，关于产品背景介绍，完全可以自己虚构一个故事，虚构仓库，把故事说好就行。</p>
@@ -266,14 +266,14 @@
   <entry>
     <title>《阅后即焚：SnapChat传》</title>
     <url>/2026/03/16/%E3%80%8A%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A%EF%BC%9ASnapChat%E4%BC%A0%E3%80%8B/</url>
-    <content><![CDATA[<h1 id="《阅后即焚：SnapChat传》"><a href="#《阅后即焚：SnapChat传》" class="headerlink" title="《阅后即焚：SnapChat传》"></a>《阅后即焚：SnapChat传》</h1><blockquote>
+    <content><![CDATA[<blockquote>
 <p>开始时间：2026-03-04</p>
 <p>结束时间：2026-03-10</p>
 <p>地点：深圳龙岗区出租屋内、阳台上</p>
 </blockquote>
+<p>这本书我是从拼多多购入了，正版，花了18块左右。由于阅读的科技传记大多发生在硅谷，因此在阅读《Facebook》、《孵化推特》等书籍时候，已经对故事有了些了解，因此并没有太多新鲜感。但阅读这类书籍的一个收获，是通过了解主人公的创业史，给自己打打鸡血。而我写读后感，是为了让自己能重新翻看这本书，温故而知新。<em>（我之后每读完一本书，计划放上两天再写读后感）</em></p>
 <span id="more"></span>
 
-<p>这本书我是从拼多多购入了，正版，花了18块左右。由于阅读的科技传记大多发生在硅谷，因此在阅读《Facebook》、《孵化推特》等书籍时候，已经对故事有了些了解，因此并没有太多新鲜感。但阅读这类书籍的一个收获，是通过了解主人公的创业史，给自己打打鸡血。而我写读后感，是为了让自己能重新翻看这本书，温故而知新。<em>（我之后每读完一本书，计划放上两天再写读后感）</em></p>
 <p><img src="https://blogphoto.planetgis.cn/PicGo/2026-03-16-IMG_20260304_180122.jpg" alt="snapchat"></p>
 <ul>
 <li><p>SnapChat的创始人埃文，是1990年出生的。在斯坦福大学没毕业就实现了财务自由。他为什么能这么厉害？不得不说，他家庭条件让他能在很小的时候就进行商业思考这点是很重要的。(<em>对我而言，我只能是通过后期刻意练习来进行商业思维锻炼了</em>) ——<em>P140</em></p>
@@ -353,9 +353,16 @@
   </entry>
   <entry>
     <title>OpenClaw训练营</title>
-    <url>/2026/03/16/OpenClaw%E8%AE%AD%E7%BB%83%E8%90%A5/</url>
+    <url>/2026/03/11/OpenClaw%E8%AE%AD%E7%BB%83%E8%90%A5/</url>
     <content><![CDATA[<p>这篇文章，是将WaytoAGI的第五期课程：OpenClaw的笔记，学习并整理好。整篇文章就是一整期内容，因此该文章会不断进行更新。</p>
-<h2 id="第一课："><a href="#第一课：" class="headerlink" title="第一课："></a>第一课：</h2><blockquote>
+<p>目录：</p>
+<p>第一课： OpenClaw初见小龙虾（2026-03-11）</p>
+<p>第二课：小龙虾云端部署+技能初始化（2026-03-13）</p>
+<p>第三课：OpenClaw创建多维表格 （2026-03-15）</p>
+<span id="more"></span>
+
+<hr>
+<h2 id="第一课：-OpenClaw初见小龙虾"><a href="#第一课：-OpenClaw初见小龙虾" class="headerlink" title="第一课： OpenClaw初见小龙虾"></a>第一课： OpenClaw初见小龙虾</h2><blockquote>
 <p>直播时间：2026-3-11 20:00</p>
 <p>直播平台：飞书</p>
 <p>直播主题：<a href="https://waytoagi.feishu.cn/minutes/obcndie8r4z6726gw2j78zuw">OpenClaw初见小龙虾</a></p>
@@ -374,7 +381,7 @@
 <li>skill只装值得信任的，因为已经有一些恶意skill进入了应用市场。</li>
 </ul>
 <hr>
-<h2 id="第二课："><a href="#第二课：" class="headerlink" title="第二课："></a>第二课：</h2><blockquote>
+<h2 id="第二课：小龙虾云端部署-技能初始化"><a href="#第二课：小龙虾云端部署-技能初始化" class="headerlink" title="第二课：小龙虾云端部署+技能初始化"></a>第二课：小龙虾云端部署+技能初始化</h2><blockquote>
 <p>直播时间：2026-3-13 20:00</p>
 <p>直播平台：飞书</p>
 <p>直播主题：<a href="https://waytoagi.feishu.cn/minutes/obcnevazl3l8z8955w9gk64v">小龙虾云端部署+技能初始化</a></p>
@@ -396,9 +403,10 @@
     <url>/2026/03/11/%E6%9D%BF%E7%89%992026%E5%B9%B4%E7%BA%BF%E4%B8%8A%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95/</url>
     <content><![CDATA[<p>线上活动分为这么几类：Pitch社区空中茶话会、WaytoAGI训练营（第五期）、其它课程。这篇文章下面将会按照这么几个板块进行记录。</p>
 <h1 id="Pitch社区空中茶话会"><a href="#Pitch社区空中茶话会" class="headerlink" title="Pitch社区空中茶话会"></a>Pitch社区空中茶话会</h1><ol>
-<li><a href="https://blog.planetcatcher.cn/2026/03/16/Pitch%E7%A4%BE%E5%8C%BA%E7%A9%BA%E4%B8%AD%E8%8C%B6%E8%AF%9D%E4%BC%9A%EF%BC%9A%E4%BB%8E0%E5%88%B0%E5%8D%83%E4%B8%87%EF%BC%8C%E8%81%8A%E8%81%8AEtsy%E5%87%BA%E5%8D%95%E8%BF%99%E4%BB%B6%E4%BA%8B/">Pitch社区空中茶话会：从0到千万，聊聊Etsy出单这件事 | 板牙的个人博客</a></li>
+<li><a href="https://blog.planetcatcher.cn/2026/03/12/Pitch%E7%A4%BE%E5%8C%BA%E7%A9%BA%E4%B8%AD%E8%8C%B6%E8%AF%9D%E4%BC%9A%EF%BC%9A%E4%BB%8E0%E5%88%B0%E5%8D%83%E4%B8%87%EF%BC%8C%E8%81%8A%E8%81%8AEtsy%E5%87%BA%E5%8D%95%E8%BF%99%E4%BB%B6%E4%BA%8B/">Pitch社区空中茶话会：从0到千万，聊聊Etsy出单这件事 | 板牙的个人博客</a></li>
 </ol>
-<h1 id="WaytoAGI第五期：OpenClaw训练营"><a href="#WaytoAGI第五期：OpenClaw训练营" class="headerlink" title="WaytoAGI第五期：OpenClaw训练营"></a>WaytoAGI第五期：OpenClaw训练营</h1>]]></content>
+<h1 id="WaytoAGI第五期：OpenClaw训练营"><a href="#WaytoAGI第五期：OpenClaw训练营" class="headerlink" title="WaytoAGI第五期：OpenClaw训练营"></a>WaytoAGI第五期：OpenClaw训练营</h1><p>1. </p>
+]]></content>
       <categories>
         <category>年度总结</category>
       </categories>
@@ -424,6 +432,43 @@
         <tag>阅读</tag>
         <tag>2026年</tag>
         <tag>年度总结</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于深圳线下活动与课后学习的思考</title>
+    <url>/2026/03/17/%E5%85%B3%E4%BA%8E%E6%B7%B1%E5%9C%B3%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8%E4%B8%8E%E8%AF%BE%E5%90%8E%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%80%9D%E8%80%83/</url>
+    <content><![CDATA[<p>这段时间，我沉迷于参加各种各样的活动：一人公司活动、国际宠物展会、电商与跨境电商活动、商业峰会、AI活动、OpenClaw活动等。活动参加了很多，自以为很忙很有帮助，但仔细想来，活动内容都差不多。这让我忽然意识到——基础知识就这么多。</p>
+<span id="more"></span>
+
+<p><strong>活动，其实就只提供了两种功能：</strong></p>
+<blockquote>
+<p>1.了解行业新闻，动态、趋势；（信息差）</p>
+<p>2.感受活动中的氛围，让自己能坚持下去。（这个赛道热不热）</p>
+</blockquote>
+<p>活动本身不负责教会你基础知识，通过参加活动来掌握那零星的知识是很傻的。所以最恰当的做法是：参加活动之前就提前掌握好基础知识；活动结束后，整理活动中获取到的信息，用于分析市场和锻炼自身商业头脑。</p>
+<p><img src="https://blogphoto.planetgis.cn/PicGo/2026-03-17-image-20260317230913694.png" alt="image-20260317230913694"></p>
+<p>我很庆幸，能这么早就意识到之前的日常存在问题。接下来的日子，活动我会继续参加，但我会进行筛选：那些我已经掌握，或者用不到的知识，没必要花时间去参加（仅为了那虚无缥缈的“氛围”）。</p>
+]]></content>
+      <categories>
+        <category>创业</category>
+      </categories>
+      <tags>
+        <tag>创业</tag>
+        <tag>深圳</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>板牙2026年线下活动记录</title>
+    <url>/2026/03/16/%E6%9D%BF%E7%89%992026%E5%B9%B4%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95/</url>
+    <content><![CDATA[<p>这篇文章是对我2026年参加的线下活动以链接的形式进行整理。按照时间顺序进行排列。</p>
+]]></content>
+      <categories>
+        <category>年度总结</category>
+      </categories>
+      <tags>
+        <tag>2026年</tag>
+        <tag>年度总结</tag>
+        <tag>线下活动</tag>
       </tags>
   </entry>
 </search>
